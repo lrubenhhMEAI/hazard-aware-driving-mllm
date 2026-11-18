@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+qwen-vl-utils
+pillow
+numpy
+matplotlib
+statsmodels
+nltk
+rouge-score
+bert-score
